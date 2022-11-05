@@ -1,6 +1,6 @@
 # Insure-Me (An Insurance Domain Project)
 
-This project will help you to understand various concept related to Insurace domain. Please read the Insurace-domain.pdf to get more functional knowledge on Insurace domain. 
+This project is about implementing DevOps by Automating CICD pipeline. Please read the Insurace-domain.pdf to get more functional knowledge on Insurace domain. 
 
 This project uses HTML, CSS and Javascript as frontend and Java Spring Boot for Backend microservice.
 

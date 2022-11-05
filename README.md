@@ -29,7 +29,7 @@ The application exposes following APIs :
 
       //policy id is auto incrementing. so need not to pass while creating.
       
-3, /viewPolicy/{policyId} (method type : GET) -> to view the policy details.
+3. /viewPolicy/{policyId} (method type : GET) -> to view the policy details.
 
 4. /updatePolicy (method type: PUT) -> to update the Policy details.
    RequestBody : 
